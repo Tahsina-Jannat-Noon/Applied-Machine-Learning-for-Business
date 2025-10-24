@@ -35,9 +35,6 @@ The dataset is clean, balanced, and ideal for testing distance-based algorithms.
    - Assessed performance with **confusion matrix**, **classification report**, and **ROC curves**.  
    - Compared against a **Dummy Classifier baseline (33.3%)**.  
 
-4. **Model Saving**  
-   - Saved the final model as `optimized_knn_iris.pkl` using **Joblib**.
-
 
 
 ## Results Summary
